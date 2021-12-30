@@ -1,3 +1,7 @@
 # input files
 *.mov
 *.mp4
+# Adobe Premiere projects
+*.prproj
+# OS files
+.DS_Store
